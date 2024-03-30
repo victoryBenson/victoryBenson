@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoryBenson
-- 👀 I’m interested in ...Everything tech
+- 👀 I’m interested in ...solving problems
 - 🌱 I’m currently learning ...Mern Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
