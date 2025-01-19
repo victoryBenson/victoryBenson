@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I'm currently learning typescript<br>Fun facts⚡️: I play bass guitar 🎸 & brass instruments and I love music<br>🤝 I'm open to work and collaborations<br><br><br>
+🌱I'm a web developer <br>Fun facts⚡️: I play bass guitar 🎸 & brass instruments and I love music<br>🤝 I'm open to work and collaborations<br><br><br>
 
 
 ## 🌐 Socials:
